@@ -26,8 +26,8 @@ void main() {
   print('こんにちは');
   print('みなさん');
   print('元気ですか？');
-  print('2+3');
-  print('1+4');
-  print('3+2');
+  print(2+3);
+  print(1+4);
+  print(3+2);
   print(0+5*8-22);
 }
