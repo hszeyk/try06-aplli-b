@@ -10,5 +10,6 @@
 ----------------------------------*/
 
 void main() {
-  // 問題のプログラムを書いてね
+  var curry = ['beef','onion','carrot'];
+  print(curry[1]);
 }

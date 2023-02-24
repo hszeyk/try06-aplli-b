@@ -10,5 +10,7 @@
 ----------------------------------*/
 
 void main() {
-  // プログラムを書いてね
+  var bloodtype = {"asahi": "a", "sakura": "ab"}; 
+  var n = bloodtype["asahi"];
+  print("朝日は$n型です");
 }
